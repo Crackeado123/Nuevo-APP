@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Tropical World",
+    "slug": "app-5a-h",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/LogoTW.jpeg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/LogoTW.jpeg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jjflores20.app5ah"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d7e4b734-bf8c-4fcb-a07f-817c69ceb852"
+      }
+    }
+  }
+}
